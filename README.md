@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thesorio
-- 👀 I’m interested in games and other stuff
-- 🌱 I’m currently learning typescript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in games and 
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me ... Contact ne over discord #thesorio
 
 <!---
