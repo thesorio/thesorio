@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thesorio
-- 👀 I’m interested in games and 
+- 👀 I’m interested in a little coding and sport i guess
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me ... Contact ne over discord #thesorio
 
