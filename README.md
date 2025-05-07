@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thesorio
-- 👀 I’m interested in a little coding and sport i guess
-- 🌱 I’m currently learning javascript
+- I’m interested in a little coding and sport i guess
+- I’m currently learning trying to sort my brain
 - 📫 How to reach me ... Contact ne over discord #thesorio
 
 <!---
